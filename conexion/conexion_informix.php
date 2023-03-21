@@ -1,5 +1,7 @@
 <?php
     class ConectarInformix{
+        protected $var1;
+
 
         protected $dbif;
 
